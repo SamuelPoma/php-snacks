@@ -8,18 +8,18 @@
     <?php
       $students = [
         'st1' => [
-          'name' => 'Samuel',
-          'surname' => 'Poma',
+          'name' => 'Marco',
+          'surname' => 'Rosso',
           'votes' => [9,8,7,10,8]
         ],
         'st2' =>[
-          'name' => 'Davide',
-          'surname' => 'Lecci',
+          'name' => 'Paolo',
+          'surname' => 'Bianco',
           'votes' => [6,8,8,10,8]
         ],
         'st3' =>[
-          'name' => 'Alessandro',
-          'surname' => 'Leita',
+          'name' => 'Stefano',
+          'surname' => 'Verde',
           'votes' => [6,6,6,10,10]
         ]
       ];
